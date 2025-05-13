@@ -1,0 +1,21 @@
+Location_Type,Name,Area_km2,Population,Favorite_Food,Notable_Landmark,Average_Income_USD
+Commune,Belén,8.83,217501,Arepa de Choclo,Parque Biblioteca Belén,450
+Commune,La Candelaria,3.5,100000,Bandeja Paisa,Plaza Botero,500
+Commune,El Poblado,23.1,130000,Sancocho Antioqueño,Parque Lleras,800
+Commune,Robledo,13.5,150000,Empanadas,Cerro El Volador,400
+Commune,Manrique,7.5,120000,Chorizo Antioqueño,Parque de los Deseos,380
+Commune,Villa Hermosa,5.8,104450,Arepa de Queso,Parque Biblioteca León de Greiff,390
+Commune,Guayabal,7.6,76355,Lechona,Parque Juan Pablo II,420
+Commune,Castilla,6.2,110000,Frijoles con Chicharrón,Parque Juanes de la Paz,370
+Commune,Santa Cruz,5.5,95000,Chicharrón,Parque Santa Cruz,360
+Commune,Doce de Octubre,6.0,98000,Mondongo,Parque Doce de Octubre,365
+Municipality,Medellín,380.64,2533424,Bandeja Paisa,Plaza Botero,850
+Municipality,Bello,142.36,532154,Arepa de Chocolo,Puerta del Norte Shopping Center,700
+Municipality,Itagüí,21.09,276744,Empanadas,Itagüí Central Park,650
+Municipality,Envigado,78.78,228848,Sancocho Antioqueño,Envigado Cultural Center,800
+Municipality,Caldas,135.00,81275,Lechona,La Valeria Ecological Park,500
+Municipality,Sabaneta,15.00,79638,Chicharrón,Parque de Sabaneta,750
+Municipality,Copacabana,70.00,74884,Frijoles con Chicharrón,Cerro de la Virgen,600
+Municipality,La Estrella,35.00,70445,Mondongo,El Romeral Ecological Reserve,620
+Municipality,Girardota,78.00,63611,Arepa de Queso,Parque Principal de Girardota,580
+Municipality,Barbosa,206.00,55969,Chorizo Antioqueño,Parque de las Aguas,550
